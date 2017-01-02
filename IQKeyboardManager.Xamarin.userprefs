@@ -1,1 +1,15 @@
-﻿<Properties />
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="IQKeyboardManager.Xamarin/IQKeyboardManager.cs">
+    <Files>
+      <File FileName="IQKeyboardManager.Xamarin/IQKeyboardManager.cs" Line="790" Column="57" />
+      <File FileName="IQKeyboardManager.Xamarin/Extensions/UIViewExtensions.cs" Line="15" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../claims-api/Src/Claims.Mobile.Core/Extensions/FieldResourceExtensions.cs" line="19" offsetX="619" offsetY="317" expression="field.Type" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

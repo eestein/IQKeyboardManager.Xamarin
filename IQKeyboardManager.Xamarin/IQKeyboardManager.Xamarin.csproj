@@ -45,10 +45,18 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\" />
+    <Folder Include="Enums\" />
+    <Folder Include="Extensions\" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MyClass.cs" />
+    <Compile Include="IQKeyboardManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Enums\IQAutoToolbarManageBehaviour.cs" />
+    <Compile Include="Enums\IQPreviousNextDisplayMode.cs" />
+    <Compile Include="Enums\IQLayoutGuidePosition.cs" />
+    <Compile Include="Extensions\ArrayExtensions.cs" />
+    <Compile Include="Extensions\UIWindowExtensions.cs" />
+    <Compile Include="Extensions\UIViewExtensions.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>
